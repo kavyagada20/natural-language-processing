@@ -1,0 +1,23 @@
+Top Bigrams
+('natural', 'language') -> 2
+('language', '.') -> 2
+('language', 'processing') -> 1
+('processing', 'enables') -> 1
+('enables', 'computers') -> 1
+('computers', 'to') -> 1
+('to', 'understand') -> 1
+('understand', 'human') -> 1
+('human', 'language') -> 1
+('.', 'language') -> 1
+
+Top Trigrams
+('natural', 'language', 'processing') -> 1
+('language', 'processing', 'enables') -> 1
+('processing', 'enables', 'computers') -> 1
+('enables', 'computers', 'to') -> 1
+('computers', 'to', 'understand') -> 1
+('to', 'understand', 'human') -> 1
+('understand', 'human', 'language') -> 1
+('human', 'language', '.') -> 1
+('language', '.', 'language') -> 1
+('.', 'language', 'models') -> 1
