@@ -1,0 +1,5 @@
+Natural language processing is an exciting field. -> Positive
+I love working on machine learning projects. -> Positive
+This assignment is very difficult. -> Negative
+The results of the experiment are disappointing. -> Negative
+The system works perfectly and efficiently. -> Positive
