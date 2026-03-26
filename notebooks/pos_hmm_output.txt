@@ -1,0 +1,6 @@
+Natural -> NNP
+language -> NN
+processing -> NN
+is -> VBZ
+very -> RB
+interesting -> JJ
